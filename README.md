@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - A Web Developer 💻<br>
 - 🎮 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"> <br>
 ### About Me 
-I am currently pursuing my Bachelors in Computer Science Engineering from Bu-Ali Sina University  of Engineering. I love to code, watch movies ,play video games and Hang out with my freinds.
+I am currently pursuing my Bachelors in Computer Science Engineering from Bu-Ali Sina University. I love to code, watch movies ,play video games and Hang out with my freinds.
 ### 🚀 Frameworks
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src= "https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
