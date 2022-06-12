@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am currently pursuing my Bachelors in Computer Science Engineering from Bu-Ali Sina University. I love to code, watch movies ,play video games and Hang out with my freinds.
 ### 🚀 Frameworks
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src= "https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
+
 <h1>👩‍💻 IDE <h1>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
